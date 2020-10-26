@@ -1,0 +1,238 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 6,
+            "name": "type",
+            "name_ar": "النوع",
+            "parent_id": null,
+            "price": 0,
+            "type": 2,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 34,
+                    "name": "Grilled chicken",
+                    "name_ar": "فراخ مشوية",
+                    "price": 35,
+                    "type": 2,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:27:34+00:00",
+                    "updated_at": "2020-09-18T13:27:34+00:00",
+                    "media": [
+                        {
+                            "id": 9,
+                            "model_type": "App\\Product",
+                            "model_id": 34,
+                            "collection_name": "image",
+                            "name": "bb9b5a1089e4d12f3d09499bab1e4f93a5db9b2e",
+                            "file_name": "bb9b5a1089e4d12f3d09499bab1e4f93a5db9b2e.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 19366,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 9,
+                            "created_at": "2020-09-18T13:27:34.000000Z",
+                            "updated_at": "2020-09-18T13:27:34.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 7,
+                    "name": "zghalel la7m",
+                    "name_ar": "زغاليل لاحم",
+                    "parent_id": 6,
+                    "price": 5,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 8,
+                    "name": "zghalel zagl",
+                    "name_ar": "زغاليل زاجل",
+                    "parent_id": 6,
+                    "price": 4,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "elt2de3",
+            "name_ar": "التقطيع",
+            "parent_id": null,
+            "price": 0,
+            "type": 2,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 34,
+                    "name": "Grilled chicken",
+                    "name_ar": "فراخ مشوية",
+                    "price": 35,
+                    "type": 2,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:27:34+00:00",
+                    "updated_at": "2020-09-18T13:27:34+00:00",
+                    "media": [
+                        {
+                            "id": 9,
+                            "model_type": "App\\Product",
+                            "model_id": 34,
+                            "collection_name": "image",
+                            "name": "bb9b5a1089e4d12f3d09499bab1e4f93a5db9b2e",
+                            "file_name": "bb9b5a1089e4d12f3d09499bab1e4f93a5db9b2e.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 19366,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 9,
+                            "created_at": "2020-09-18T13:27:34.000000Z",
+                            "updated_at": "2020-09-18T13:27:34.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 10,
+                    "name": "normal",
+                    "name_ar": "عادي",
+                    "parent_id": 9,
+                    "price": 3,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 11,
+                    "name": "7ashw",
+                    "name_ar": "حشو",
+                    "parent_id": 9,
+                    "price": 10,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": "2020-09-14T15:47:02+00:00"
+                },
+                {
+                    "id": 12,
+                    "name": "shwy",
+                    "name_ar": "شوي",
+                    "parent_id": 9,
+                    "price": 6,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "eltaghlef",
+            "name_ar": "التغليف",
+            "parent_id": null,
+            "price": 0,
+            "type": 2,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 34,
+                    "name": "Grilled chicken",
+                    "name_ar": "فراخ مشوية",
+                    "price": 35,
+                    "type": 2,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:27:34+00:00",
+                    "updated_at": "2020-09-18T13:27:34+00:00",
+                    "media": [
+                        {
+                            "id": 9,
+                            "model_type": "App\\Product",
+                            "model_id": 34,
+                            "collection_name": "image",
+                            "name": "bb9b5a1089e4d12f3d09499bab1e4f93a5db9b2e",
+                            "file_name": "bb9b5a1089e4d12f3d09499bab1e4f93a5db9b2e.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 19366,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 9,
+                            "created_at": "2020-09-18T13:27:34.000000Z",
+                            "updated_at": "2020-09-18T13:27:34.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 14,
+                    "name": "akyas shaft",
+                    "name_ar": "اكياس شفط",
+                    "parent_id": 13,
+                    "price": 1,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 15,
+                    "name": "akyas felen",
+                    "name_ar": "اكياس فيلين",
+                    "parent_id": 13,
+                    "price": 2,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 16,
+                    "name": "without",
+                    "name_ar": "بدون تغليف",
+                    "parent_id": 13,
+                    "price": 0,
+                    "type": 2,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }
+    ]
+}

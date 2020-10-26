@@ -1,0 +1,299 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 17,
+            "name": "mix box",
+            "name_ar": "صندوق تشكيله",
+            "parent_id": null,
+            "price": 0,
+            "type": 3,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 33,
+                    "name": "Sauteed vegetables",
+                    "name_ar": "خضار سوتيه",
+                    "price": 20,
+                    "type": 3,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:26:03+00:00",
+                    "updated_at": "2020-09-18T13:26:03+00:00",
+                    "media": [
+                        {
+                            "id": 8,
+                            "model_type": "App\\Product",
+                            "model_id": 33,
+                            "collection_name": "image",
+                            "name": "8f9174937422ef02103aec13925d4660_w750_h750",
+                            "file_name": "8f9174937422ef02103aec13925d4660-w750-h750.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 107713,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 8,
+                            "created_at": "2020-09-18T13:26:03.000000Z",
+                            "updated_at": "2020-09-18T13:26:03.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 18,
+                    "name": "meduim",
+                    "name_ar": "متوسط",
+                    "parent_id": 17,
+                    "price": 2,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 19,
+                    "name": "large",
+                    "name_ar": "كبير",
+                    "parent_id": 17,
+                    "price": 4,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Qat3",
+            "name_ar": "قطع",
+            "parent_id": null,
+            "price": 0,
+            "type": 3,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 33,
+                    "name": "Sauteed vegetables",
+                    "name_ar": "خضار سوتيه",
+                    "price": 20,
+                    "type": 3,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:26:03+00:00",
+                    "updated_at": "2020-09-18T13:26:03+00:00",
+                    "media": [
+                        {
+                            "id": 8,
+                            "model_type": "App\\Product",
+                            "model_id": 33,
+                            "collection_name": "image",
+                            "name": "8f9174937422ef02103aec13925d4660_w750_h750",
+                            "file_name": "8f9174937422ef02103aec13925d4660-w750-h750.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 107713,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 8,
+                            "created_at": "2020-09-18T13:26:03.000000Z",
+                            "updated_at": "2020-09-18T13:26:03.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 22,
+                    "name": "Yes",
+                    "name_ar": "نعم",
+                    "parent_id": 20,
+                    "price": 10,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 24,
+                    "name": "لا",
+                    "name_ar": "no",
+                    "parent_id": 20,
+                    "price": 0,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "eltaghlef",
+            "name_ar": "التغليف",
+            "parent_id": null,
+            "price": 0,
+            "type": 3,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 33,
+                    "name": "Sauteed vegetables",
+                    "name_ar": "خضار سوتيه",
+                    "price": 20,
+                    "type": 3,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:26:03+00:00",
+                    "updated_at": "2020-09-18T13:26:03+00:00",
+                    "media": [
+                        {
+                            "id": 8,
+                            "model_type": "App\\Product",
+                            "model_id": 33,
+                            "collection_name": "image",
+                            "name": "8f9174937422ef02103aec13925d4660_w750_h750",
+                            "file_name": "8f9174937422ef02103aec13925d4660-w750-h750.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 107713,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 8,
+                            "created_at": "2020-09-18T13:26:03.000000Z",
+                            "updated_at": "2020-09-18T13:26:03.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 26,
+                    "name": "sandoQ felen",
+                    "name_ar": "صندوق فيلين",
+                    "parent_id": 25,
+                    "price": 10,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 27,
+                    "name": "sa7n plastic",
+                    "name_ar": "صحن بلاستك",
+                    "parent_id": 25,
+                    "price": 5,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "cutting",
+            "name_ar": "التقطيع",
+            "parent_id": null,
+            "price": 0,
+            "type": 3,
+            "created_at": null,
+            "updated_at": null,
+            "products": [
+                {
+                    "id": 33,
+                    "name": "Sauteed vegetables",
+                    "name_ar": "خضار سوتيه",
+                    "price": 20,
+                    "type": 3,
+                    "category_id": null,
+                    "user_id": null,
+                    "created_at": "2020-09-18T13:26:03+00:00",
+                    "updated_at": "2020-09-18T13:26:03+00:00",
+                    "media": [
+                        {
+                            "id": 8,
+                            "model_type": "App\\Product",
+                            "model_id": 33,
+                            "collection_name": "image",
+                            "name": "8f9174937422ef02103aec13925d4660_w750_h750",
+                            "file_name": "8f9174937422ef02103aec13925d4660-w750-h750.jpg",
+                            "mime_type": "image/jpeg",
+                            "disk": "public",
+                            "size": 107713,
+                            "manipulations": [],
+                            "custom_properties": {
+                                "generated_conversions": {
+                                    "50": true,
+                                    "200": true,
+                                    "360": true,
+                                    "200x200": true
+                                }
+                            },
+                            "responsive_images": [],
+                            "order_column": 8,
+                            "created_at": "2020-09-18T13:26:03.000000Z",
+                            "updated_at": "2020-09-18T13:26:03.000000Z"
+                        }
+                    ]
+                }
+            ],
+            "subcategory": [
+                {
+                    "id": 61,
+                    "name": "circle",
+                    "name_ar": "دائري",
+                    "parent_id": 60,
+                    "price": 1,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 62,
+                    "name": "cubical",
+                    "name_ar": "مكعبات",
+                    "parent_id": 60,
+                    "price": 2,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 63,
+                    "name": "grated",
+                    "name_ar": "مبشور",
+                    "parent_id": 60,
+                    "price": 3,
+                    "type": 3,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }
+    ]
+}
